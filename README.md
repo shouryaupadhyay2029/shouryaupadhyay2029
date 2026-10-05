@@ -1,11 +1,11 @@
 <div align="center">
 
   <a href="https://github.com/shouryaupadhyay2029">
-    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=28&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=✦+SHOURYA+UPADHYAY+✦;IoT+%26+Automation+Engineering+Student;Full-Stack+Systems+Developer;Building+TEJAS+%2F+SAKSHAM" alt="Header Typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Shourya+Upadhyay!;IoT+%26+Automation+Engineer;Full-Stack+Web+Developer;Building+TEJAS+%26+SAKSHAM" alt="Header Typing" />
   </a>
 
   <p align="center">
-    <b>USAR Automation & Robotics</b> &nbsp;•&nbsp; <b>IoT & Systems Architecture</b> &nbsp;•&nbsp; <b>Full-Stack Engineering</b>
+    <b>USAR Automation & Robotics</b> &nbsp;•&nbsp; <b>IoT Systems Architecture</b> &nbsp;•&nbsp; <b>Full-Stack Dev</b>
   </p>
 
   <p align="center">
@@ -18,31 +18,31 @@
 
 <br />
 
-<div align="center">
-<pre>
-┌──────────────────────────────────────┐   <b>shouryaupadhyay2029</b> ──────────────────────────────────────────
-│   ┌─┐┬ ┬┌─┐┬ ┬┬─┐┬ ┬┌─┐              │   <b>system.os</b>       │ Windows 11  ◈  Ubuntu Linux  ◈  Android
-│   └─┐├─┤│ ││ │├┬┘└┬┘├─┤              │   <b>system.uptime</b>   │ 20 years, 8 months
-│   └──┘┴ ┴└─┘└─┘┴└─ ┴ ┴ ┴             │   <b>system.host</b>     │ USAR (Automation & Robotics)
-│   ─────────────────────              │   <b>system.role</b>     │ Systems Architecture & Full-Stack Dev
-│   SYSTEMS ◈ AUTOMATION ◈ IOT         │   <b>system.editor</b>   │ VS Code  ◈  Antigravity AI IDE
-└──────────────────────────────────────┘   
-                                           <b>stack.core</b>      │ Python  •  TypeScript  •  JavaScript  •  C++
-                                           <b>stack.web</b>       │ React  •  Node.js  •  FastAPI  •  PostgreSQL
-                                           <b>stack.hardware</b>  │ ESP32  •  Microcontrollers  •  Sensors  •  GIS
-                                           
-                                           <b>projects.key</b>    │ ◈ TEJAS    ── GIS Railway Safety System
-                                                           │ ◈ SAKSHAM  ── Assistive Tech Suite
-                                                           │ ◈ NexEVENT ── Event Management Engine
-────────────────────────────────────────────────────────────────────────────────────────────────────────
-</pre>
-</div>
+```text
+========================================================================
+  SYSTEM INFO          shouryaupadhyay2029
+========================================================================
+  OS           :: Windows 11 | Ubuntu Linux | Android
+  UPTIME       :: 20 years, 8 months
+  HOST         :: USAR (University School of Automation & Robotics)
+  ROLE         :: Systems Architecture & Full-Stack Developer
+  IDE          :: VS Code | Antigravity AI IDE
+
+  STACK.CORE   :: Python  •  TypeScript  •  JavaScript  •  C++
+  STACK.WEB    :: React  •  Node.js  •  FastAPI  •  PostgreSQL
+  STACK.IOT    :: ESP32  •  Microcontrollers  •  Sensors  •  GIS
+
+  FEATURED.01  :: TEJAS    ── GIS Railway Safety & Radar System
+  FEATURED.02  :: SAKSHAM  ── Assistive Tech & Accessibility Suite
+  FEATURED.03  :: NexEVENT ── Interactive Event Management Platform
+========================================================================
+```
 
 <br />
 
 ---
 
-### 🛠️ Tech Stack & Architecture
+### 🛠️ Tech Stack & Skills
 
 <div align="center">
 
@@ -54,7 +54,6 @@
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -78,19 +77,9 @@
   <tr>
     <td align="right" width="140"><b>IoT & Systems</b></td>
     <td>
-      <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" />
       <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-      <img src="https://img.shields.io/badge/GIS%20Mapping-3388FF?style=for-the-badge&logo=leaflet&logoColor=white" />
-      <img src="https://img.shields.io/badge/Sensors%20%26%20IoT-00F0FF?style=for-the-badge&logo=microchip&logoColor=black" />
-    </td>
-  </tr>
-  <tr>
-    <td align="right" width="140"><b>Tools</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+      <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+      <img src="https://img.shields.io/badge/IoT%20%26%20Automation-00F0FF?style=for-the-badge&logo=microchip&logoColor=black" />
     </td>
   </tr>
 </table>
@@ -101,7 +90,7 @@
 
 ---
 
-### 🚀 Featured Engineering Projects
+### 🚀 Top Featured Engineering Projects
 
 <div align="center">
 
@@ -169,15 +158,9 @@
 
 ---
 
-### 📊 GitHub Activity & Achievements
+### 📊 GitHub Activity & Analytics
 
 <div align="center">
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shouryaupadhyay2029&theme=flat&no-bg=true&column=6&margin-w=15" alt="Trophies" />
-</p>
-
-<br />
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=shouryaupadhyay2029&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
@@ -200,5 +183,6 @@
 <div align="center">
   <sub>Architected & Developed by <b>Shourya Upadhyay</b> • Total Profile Views: <img src="https://komarev.com/ghpvc/?username=shouryaupadhyay2029&color=58a6ff&style=flat-square" alt="views" /></sub>
 </div>
+
 
 
