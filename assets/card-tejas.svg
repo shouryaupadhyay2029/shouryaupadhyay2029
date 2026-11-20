@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="240" viewBox="0 0 440 240" fill="none">
+  <defs>
+    <linearGradient id="bgTJ" x1="0" y1="0" x2="440" y2="240" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#060814"/>
+      <stop offset="100%" stop-color="#0B0E22"/>
+    </linearGradient>
+    <radialGradient id="glowTJ" cx="88%" cy="16%" r="52%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.25"/>
+      <stop offset="60%" stop-color="#38BDF8" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="topBarTJ" x1="0" y1="0" x2="440" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="55%" stop-color="#7DD3FC"/>
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0.1"/>
+    </linearGradient>
+    <clipPath id="clipTJ">
+      <rect x="1" y="1" width="438" height="238" rx="14"/>
+    </clipPath>
+    <style>
+      .mono { font-family: 'SFMono-Regular', 'JetBrains Mono', Consolas, 'Liberation Mono', Menlo, monospace; }
+      .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; }
+      @keyframes pingRing {
+        0% { r: 4; opacity: 0.95; }
+        100% { r: 16; opacity: 0; }
+      }
+      .ring-anim { animation: pingRing 2.4s cubic-bezier(0.16, 1, 0.3, 1) infinite; }
+    </style>
+  </defs>
+
+  <g clip-path="url(#clipTJ)">
+    <rect x="0" y="0" width="440" height="240" fill="url(#bgTJ)"/>
+    <rect x="0" y="0" width="440" height="240" fill="url(#glowTJ)"/>
+    <rect x="0" y="0" width="440" height="3" fill="url(#topBarTJ)"/>
+
+    <!-- Top Row: Badge + Mini GIS Radar Pulse -->
+    <rect x="22" y="20" width="160" height="22" rx="4" fill="#38BDF8" fill-opacity="0.12" stroke="#38BDF8" stroke-opacity="0.42" stroke-width="1"/>
+    <text x="32" y="34.5" class="mono" font-size="9.5" font-weight="700" fill="#7DD3FC" letter-spacing="1.0">02 · GIS &amp; RAILWAY RADAR</text>
+
+    <!-- Mini Radar Ping Widget -->
+    <g transform="translate(396, 36)">
+      <circle cx="0" cy="0" r="18" fill="#04060F" stroke="#38BDF8" stroke-opacity="0.28" stroke-width="1"/>
+      <circle cx="0" cy="0" r="10" stroke="#38BDF8" stroke-opacity="0.25" stroke-width="1" stroke-dasharray="2 2"/>
+      <line x1="-18" y1="0" x2="18" y2="0" stroke="#38BDF8" stroke-opacity="0.18" stroke-width="1"/>
+      <line x1="0" y1="-18" x2="0" y2="18" stroke="#38BDF8" stroke-opacity="0.18" stroke-width="1"/>
+      <circle cx="0" cy="0" r="4" stroke="#38BDF8" stroke-width="1.3" fill="none" class="ring-anim"/>
+      <circle cx="0" cy="0" r="2.5" fill="#38BDF8"/>
+    </g>
+
+    <!-- Title & Subtitle -->
+    <text x="22" y="76" class="sans" font-size="25" font-weight="800" fill="#FFFFFF" letter-spacing="-0.4">TEJAS</text>
+    <text x="22" y="97" class="mono" font-size="11" font-weight="600" fill="#7DD3FC">Next-Gen GIS Railway Radar &amp; Emergency System</text>
+
+    <!-- Description -->
+    <text x="22" y="124" class="sans" font-size="12.5" fill="#94A3B8">Real-time railway safety &amp; emergency platform featuring</text>
+    <text x="22" y="142" class="sans" font-size="12.5" fill="#94A3B8">live track monitoring, radar telemetry &amp; GIS route maps.</text>
+
+    <!-- Tech Pills -->
+    <rect x="22" y="159" width="80" height="22" rx="5" fill="#0E1428" stroke="#38BDF8" stroke-opacity="0.4" stroke-width="1"/>
+    <text x="62" y="173.5" text-anchor="middle" class="mono" font-size="10" font-weight="700" fill="#7DD3FC">TypeScript</text>
+
+    <rect x="110" y="159" width="56" height="22" rx="5" fill="#0E1428" stroke="#94A3B8" stroke-opacity="0.24" stroke-width="1"/>
+    <text x="138" y="173.5" text-anchor="middle" class="mono" font-size="10" font-weight="600" fill="#E2E8F0">React</text>
+
+    <rect x="174" y="159" width="66" height="22" rx="5" fill="#0E1428" stroke="#94A3B8" stroke-opacity="0.24" stroke-width="1"/>
+    <text x="207" y="173.5" text-anchor="middle" class="mono" font-size="10" font-weight="600" fill="#E2E8F0">FastAPI</text>
+
+    <rect x="248" y="159" width="76" height="22" rx="5" fill="#0E1428" stroke="#94A3B8" stroke-opacity="0.24" stroke-width="1"/>
+    <text x="286" y="173.5" text-anchor="middle" class="mono" font-size="10" font-weight="600" fill="#E2E8F0">GIS Radar</text>
+
+    <!-- Bottom Action Strip -->
+    <line x1="22" y1="198" x2="418" y2="198" stroke="#94A3B8" stroke-opacity="0.16" stroke-width="1" stroke-dasharray="3 3"/>
+    <text x="22" y="220" class="mono" font-size="11" font-weight="700" fill="#FFFFFF">→  EXPLORE REPOSITORY</text>
+    <text x="418" y="220" text-anchor="end" class="mono" font-size="10" fill="#7DD3FC">LIVE SAFETY TELEMETRY</text>
+  </g>
+
+  <rect x="0.75" y="0.75" width="438.5" height="238.5" rx="14" stroke="#38BDF8" stroke-opacity="0.32" stroke-width="1.2"/>
+</svg>

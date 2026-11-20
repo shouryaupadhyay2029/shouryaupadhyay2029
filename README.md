@@ -1,188 +1,94 @@
 <div align="center">
 
-  <a href="https://github.com/shouryaupadhyay2029">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Shourya+Upadhyay!;IoT+%26+Automation+Engineer;Full-Stack+Web+Developer;Building+TEJAS+%26+SAKSHAM" alt="Header Typing" />
+  <!-- HERO AEROSPACE TELEMETRY BANNER -->
+  <a href="https://github.com/shouryaupadhyay2029/BLACKBOX">
+    <img src="./assets/hero-banner.svg" width="100%" alt="Shourya Upadhyay — IoT & Robotics Systems Architect" />
   </a>
 
+  <br />
+
+  <!-- LIVE OBSIDIAN ACTION STRIP -->
   <p align="center">
-    <b>USAR Automation & Robotics</b> &nbsp;•&nbsp; <b>IoT Systems Architecture</b> &nbsp;•&nbsp; <b>Full-Stack Dev</b>
+    <a href="https://www.npmjs.com/package/blackbox-flight-recorder">
+      <img src="https://img.shields.io/npm/v/blackbox-flight-recorder?style=for-the-badge&logo=npm&logoColor=white&label=BLACKBOX%20NPM&labelColor=0E1428&color=E11D48" alt="BLACKBOX on npm" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/shouryaupadhyay2029?tab=followers">
+      <img src="https://img.shields.io/github/followers/shouryaupadhyay2029?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&labelColor=0E1428&color=060814" alt="GitHub Followers" />
+    </a>
+    &nbsp;
+    <a href="mailto:upadhyayshourya352@gmail.com">
+      <img src="https://img.shields.io/badge/EMAIL-upadhyayshourya352%40gmail.com-060814?style=for-the-badge&logo=gmail&logoColor=38BDF8&labelColor=0E1428" alt="Email Shourya" />
+    </a>
+    &nbsp;
+    <a href="https://www.linkedin.com">
+      <img src="https://img.shields.io/badge/LINKEDIN-SHOURYA%20UPADHYAY-060814?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=0E1428" alt="LinkedIn" />
+    </a>
+  </p>
+
+  <br />
+
+  <!-- BESPOKE MACOS OBSIDIAN TELEMETRY TERMINAL -->
+  <img src="./assets/system-terminal.svg" width="100%" alt="Shourya Upadhyay System Telemetry Terminal" />
+
+  <br /><br />
+
+  <!-- SECTION 01: FLAGSHIP ENGINEERING SYSTEMS -->
+  <img src="./assets/section-projects.svg" width="100%" alt="01 // Flagship Engineering Systems" />
+
+  <br />
+
+  <!-- 2x2 BORDERLESS CLICKABLE PROJECT DOSSIER GRID -->
+  <p align="center">
+    <a href="https://github.com/shouryaupadhyay2029/BLACKBOX"><img src="./assets/card-blackbox.svg" width="48.5%" alt="BLACKBOX — Localhost Flight Recorder & Time-Travel Engine" /></a>&nbsp;&nbsp;<a href="https://github.com/shouryaupadhyay2029/TEJAS"><img src="./assets/card-tejas.svg" width="48.5%" alt="TEJAS — Next-Gen GIS Railway Radar & Emergency System" /></a>
   </p>
 
   <p align="center">
-    <a href="https://github.com/shouryaupadhyay2029"><img src="https://img.shields.io/github/followers/shouryaupadhyay2029?logo=github&style=for-the-badge&color=0d1117&labelColor=161b22&logoColor=white" /></a>
-    <a href="mailto:upadhyayshourya352@gmail.com"><img src="https://img.shields.io/badge/Email-upadhyayshourya352%40gmail.com-0d1117?style=for-the-badge&logo=gmail&labelColor=161b22&logoColor=ea4335" /></a>
-    <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Shourya--Upadhyay-0d1117?style=for-the-badge&logo=linkedin&labelColor=161b22&logoColor=0a66c2" /></a>
+    <a href="https://github.com/shouryaupadhyay2029/mod_drones"><img src="./assets/card-mod-drones.svg" width="48.5%" alt="MoD DRONES — Deterministic Counter-Drone Threat Simulation Trainer" /></a>&nbsp;&nbsp;<a href="https://github.com/shouryaupadhyay2029/SAKSHAM"><img src="./assets/card-saksham.svg" width="48.5%" alt="SAKSHAM — Assistive Technology & Accessibility Platform" /></a>
   </p>
 
-</div>
+  <br />
 
-<br />
+  <!-- SECTION 02: TECHNICAL ARCHITECTURE & ARSENAL -->
+  <img src="./assets/section-arsenal.svg" width="100%" alt="02 // Technical Architecture & Arsenal" />
 
-```text
-========================================================================
-  SYSTEM INFO          shouryaupadhyay2029
-========================================================================
-  OS           :: Windows 11 | Ubuntu Linux | Android
-  UPTIME       :: 20 years, 8 months
-  HOST         :: USAR (University School of Automation & Robotics)
-  ROLE         :: Systems Architecture & Full-Stack Developer
-  IDE          :: VS Code | Antigravity AI IDE
+  <br />
 
-  STACK.CORE   :: Python  •  TypeScript  •  JavaScript  •  C++
-  STACK.WEB    :: React  •  Node.js  •  FastAPI  •  PostgreSQL
-  STACK.IOT    :: ESP32  •  Microcontrollers  •  Sensors  •  GIS
+  <img src="./assets/tech-matrix.svg" width="100%" alt="4-Plane Engineering Stack Matrix" />
 
-  FEATURED.01  :: TEJAS    ── GIS Railway Safety & Radar System
-  FEATURED.02  :: SAKSHAM  ── Assistive Tech & Accessibility Suite
-  FEATURED.03  :: NexEVENT ── Interactive Event Management Platform
-========================================================================
-```
+  <br /><br />
 
-<br />
+  <!-- SECTION 03: LIVE GITHUB TELEMETRY & VELOCITY -->
+  <img src="./assets/section-telemetry.svg" width="100%" alt="03 // Live GitHub Telemetry & Velocity" />
 
----
+  <br />
 
-### 🛠️ Tech Stack & Skills
+  <!-- LIVE OBSIDIAN TELEMETRY CONTRIBUTION GRAPH -->
+  <p align="center">
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shouryaupadhyay2029&bg_color=060814&color=94A3B8&line=E11D48&point=38BDF8&area=true&area_color=E11D48&hide_border=false&border_color=1E293B&custom_title=LIVE%20CONTRIBUTION%20TELEMETRY%20SIGNAL" alt="Live Contribution Telemetry Graph" />
+  </p>
 
-<div align="center">
+  <p align="center">
+    <img height="175" src="https://github-readme-stats.vercel.app/api?username=shouryaupadhyay2029&show_icons=true&bg_color=060814&title_color=F8FAFC&icon_color=E11D48&text_color=94A3B8&border_color=1E293B&border_radius=12&ring_color=38BDF8" alt="GitHub Engineering Stats" />
+    &nbsp;
+    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shouryaupadhyay2029&layout=compact&bg_color=060814&title_color=F8FAFC&text_color=94A3B8&border_color=1E293B&border_radius=12" alt="Top Languages" />
+  </p>
 
-<table>
-  <tr>
-    <td align="right" width="140"><b>Languages</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="right" width="140"><b>Frontend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="right" width="140"><b>Backend & DB</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="right" width="140"><b>IoT & Systems</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-      <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
-      <img src="https://img.shields.io/badge/IoT%20%26%20Automation-00F0FF?style=for-the-badge&logo=microchip&logoColor=black" />
-    </td>
-  </tr>
-</table>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shouryaupadhyay2029&background=060814&border=1E293B&stroke=1E293B&ring=E11D48&fire=F43F5E&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B&border_radius=12" alt="GitHub Streak Telemetry" />
+  </p>
+
+  <br />
+
+  <!-- FOOTER SIGN-OFF RIBBON -->
+  <a href="mailto:upadhyayshourya352@gmail.com">
+    <img src="./assets/footer-banner.svg" width="100%" alt="Architected by Shourya Upadhyay" />
+  </a>
+
+  <br />
+
+  <sub>
+    <img src="https://komarev.com/ghpvc/?username=shouryaupadhyay2029&label=PROFILE%20SIGNAL&color=0E1428&style=flat-square" alt="Profile Views" />
+  </sub>
 
 </div>
-
-<br />
-
----
-
-### 🚀 Top Featured Engineering Projects
-
-<div align="center">
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🚂 TEJAS</h3>
-      <p align="center"><b>Next-Gen GIS Railway Radar & Emergency System</b></p>
-      <p>Real-time railway emergency management system featuring track safety monitoring, live radar visualization, and GIS route mapping.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/shouryaupadhyay2029/TEJAS"><b>Explore Project Repository ➔</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">♿ SAKSHAM</h3>
-      <p align="center"><b>Assistive Tech & Accessibility Platform</b></p>
-      <p>Empowering individuals through intelligent assistive utilities, accessible user interface controls, and real-time automation.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/shouryaupadhyay2029/SAKSHAM"><b>Explore Project Repository ➔</b></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">📅 NexEVENT</h3>
-      <p align="center"><b>Dynamic Event Management Ecosystem</b></p>
-      <p>Interactive platform built for seamlessly discovering, planning, and orchestrating community and tech events.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/shouryaupadhyay2029/NexEVENT"><b>Explore Project Repository ➔</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🌐 tattva</h3>
-      <p align="center"><b>Core Systems & Algorithmic Suite</b></p>
-      <p>High-performance utility functions, modular logic engines, and core computational components for web and IoT backends.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/shouryaupadhyay2029/tattva"><b>Explore Project Repository ➔</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br />
-
----
-
-### 📊 GitHub Activity & Analytics
-
-<div align="center">
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=shouryaupadhyay2029&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shouryaupadhyay2029&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
-</p>
-
-<br />
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shouryaupadhyay2029&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="Streak Stats" />
-</p>
-
-</div>
-
-<br />
-
----
-
-<div align="center">
-  <sub>Architected & Developed by <b>Shourya Upadhyay</b> • Total Profile Views: <img src="https://komarev.com/ghpvc/?username=shouryaupadhyay2029&color=58a6ff&style=flat-square" alt="views" /></sub>
-</div>
-
-
-
